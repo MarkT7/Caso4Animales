@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caso 4 Animales", "Caso 4 Animales\Caso 4 Animales.csproj", "{AED1A333-C36C-46E7-9690-8ACFE1F7B2DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalesLibreria", "AnimalesLibreria\AnimalesLibreria.csproj", "{8146BC9E-1959-4C12-8C51-E69667E0602D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AED1A333-C36C-46E7-9690-8ACFE1F7B2DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED1A333-C36C-46E7-9690-8ACFE1F7B2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED1A333-C36C-46E7-9690-8ACFE1F7B2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED1A333-C36C-46E7-9690-8ACFE1F7B2DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8146BC9E-1959-4C12-8C51-E69667E0602D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8146BC9E-1959-4C12-8C51-E69667E0602D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8146BC9E-1959-4C12-8C51-E69667E0602D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8146BC9E-1959-4C12-8C51-E69667E0602D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC9C56CA-657B-4083-BAC2-66220C65BC40}
+	EndGlobalSection
+EndGlobal
